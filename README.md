@@ -20,4 +20,4 @@ Font used in screenshot is named **Terminess Powerline**, you can find it
 Screenshot contains i3 window manager with my cofig you can
 find [here](https://github.com/termNinja/dotfiles).
 
-Finally, I'm usin [ohmyzsh](https://github.com/robbyrussell/oh-my-zsh) with **Agnoster** theme.
+Finally, I'm using [ohmyzsh](https://github.com/robbyrussell/oh-my-zsh) with **Agnoster** theme.
