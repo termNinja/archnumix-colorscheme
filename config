@@ -1,0 +1,47 @@
+[global_config]
+  geometry_hinting = False
+  title_font = Terminess Powerline 11
+  title_inactive_bg_color = "#323232"
+  title_receive_bg_color = "#1793d1"
+  title_transmit_bg_color = "#212121"
+  title_use_system_font = False
+[keybindings]
+  switch_to_tab_1 = <Primary>1
+  switch_to_tab_10 = <Primary>0
+  switch_to_tab_2 = <Primary>2
+  switch_to_tab_3 = <Primary>3
+  switch_to_tab_4 = <Primary>4
+  switch_to_tab_5 = <Primary>5
+  switch_to_tab_6 = <Primary>6
+  switch_to_tab_7 = <Primary>7
+  switch_to_tab_8 = <Primary>8
+  switch_to_tab_9 = <Primary>9
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#212121"
+    background_image = /home/termninja/Pictures/term_bgz/arch_win10_2.png
+    font = Terminess Powerline 11
+    palette = "#31373a:#cc0000:#4e9a06:#c4a000:#1793d1:#75507b:#06989a:#d2d2d2:#555753:#ef2929:#8ae234:#fce94f:#1793d1:#ad7fa8:#34e2e2:#ffffff"
+    scroll_background = False
+    scrollback_lines = 5000
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+  [[termninja]]
+    background_color = "#002b36"
+    background_image = /home/termninja/Pictures/term_bgz/arch-kiss.jpg
+    background_type = image
+    cursor_shape = ibeam
+    font = Terminess Powerline 11
+    foreground_color = "#839496"
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    use_system_font = False
