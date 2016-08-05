@@ -11,7 +11,8 @@ inspired by [Numix](https://numixproject.org/) and [Arch Linux](https://www.arch
 	```cp config ~/.config/terminator```
 
 ## How it looks
-![alt text](https://github.com/termNinja/archnumix-terminator-colorscheme/blob/master/example.png "Example")
+![example image 1](https://github.com/termNinja/archnumix-terminator-colorscheme/blob/master/example.png "Example 1")
+![example image 2](https://github.com/termNinja/archnumix-terminator-colorscheme/blob/master/ranger.png "Example 2")
 
 ## Additional
 Font used in screenshot is named **Terminess Powerline**, you can find it 
