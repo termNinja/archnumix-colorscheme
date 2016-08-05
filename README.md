@@ -14,8 +14,10 @@ inspired by [Numix](https://numixproject.org/) and [Arch Linux](https://www.arch
 ![alt text](https://github.com/termNinja/archnumix-terminator-colorscheme/blob/master/example.png "Example")
 
 ## Additional
-Font used in screenshot is named *Terminess Powerline*, you can find it 
+Font used in screenshot is named **Terminess Powerline**, you can find it 
 [here](https://github.com/powerline/fonts).
 
-Besides that, screenshot contains i3 window manager with my cofig you can
+Screenshot contains i3 window manager with my cofig you can
 find [here](https://github.com/termNinja/dotfiles).
+
+Finally, I'm usin [ohmyzsh](https://github.com/robbyrussell/oh-my-zsh) with **Agnoster** theme.
