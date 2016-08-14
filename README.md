@@ -1,14 +1,24 @@
-# Terminator colorscheme based on Arch Linux and Numix colors
-Dark theme for [Terminator](http://gnometerminator.blogspot.rs/p/introduction.html) (terminal emulator)
-inspired by [Numix](https://numixproject.org/) and [Arch Linux](https://www.archlinux.org/) colors.
+# Terminal colorscheme based on Arch Linux and Numix colors
+Dark theme for [Terminator](http://gnometerminator.blogspot.rs/p/introduction.html) 
+and [Termite](https://github.com/thestinger/termite) inspired by
+[Numix](https://numixproject.org/) and [Arch Linux](https://www.archlinux.org/) colors.
 
-## Installation
+## Installation (terminator)
 1. Backup your old config file:
 	```cp ~/.config/terminator/config ~/.config/terminator/my_backup```
 1. Clone this repo somewhere:
 	```cd ~ && git clone https://github.com/termNinja/archnumix-terminator-colorscheme.git```
 1. Copy config file onto terminator config dir:
 	```cp config ~/.config/terminator```
+
+## Installation (termite)
+1. Backup your old config file:
+	```cp ~/.config/termite/config ~/.config/termite/my_backup```
+1. Clone this repo somewhere:
+	```cd ~ && git clone https://github.com/termNinja/archnumix-colorscheme.git```
+1. Copy config file onto termite config dir:
+	```cp config ~/.config/termite```
+
 
 ## How it looks
 ![example image 1](https://github.com/termNinja/archnumix-terminator-colorscheme/blob/master/example.png "Example 1")
