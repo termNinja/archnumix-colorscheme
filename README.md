@@ -28,7 +28,9 @@ and [Termite](https://github.com/thestinger/termite) inspired by
 Font used in screenshot is named **Terminess Powerline**, you can find it 
 [here](https://github.com/powerline/fonts).
 
-Screenshot contains i3 window manager with my cofig you can
+Second screenshot is from console based file browser inspired by VI named [ranger](http://ranger.nongnu.org/).
+
+Screenshot contains i3 window manager with my config you can
 find [here](https://github.com/termNinja/dotfiles).
 
 Finally, I'm using [ohmyzsh](https://github.com/robbyrussell/oh-my-zsh) with **Agnoster** theme.
