@@ -1,0 +1,57 @@
+# ----------------------------------------------------------------------
+# file:    ~/.config/termite/config
+# author:  moparx     - http://moparx.com/configs
+# date:    05/08/2013 - 18:12 EDT
+# vim: set ai et fenc=utf-8 ft=conf nu si sts=0 sw=4 ts=8 tw=0 : 
+# ----------------------------------------------------------------------
+
+[options]
+resize_grip = false
+scroll_on_output = false
+scroll_on_keystroke = true
+audible_bell = false
+visible_bell = false
+mouse_autohide = true
+allow_bold = true
+dynamic_title = true
+urgent_on_bell = true
+clickable_url = true
+# font = Terminus (TTF) 12
+font = Terminess Powerline 11
+scrollback_lines = 5000
+search_wrap = true
+
+# transparency
+transparency = 0.0
+pseudo_transparency = false
+
+# cursor
+cursor_blink = system
+cursor_shape = block
+
+[colors]
+foreground = #839496
+background = #212121
+cursor = #1F1F1F
+color0 = #31373a
+color1 = #cc0000
+color2 = #4e9a06
+color3 = #d64937
+color4 = #1793d1
+color5 = #10ea8a
+color6 = #06989a
+color7 = #d2d2d2
+color8 = #555753
+color9 = #ef2929
+color10 = #8ae234
+color11 = #fce94f
+color12 = #1793d1
+color13 = #ad7fa8
+color14 = #34e2e2
+color15 = #ffffff"
+
+cursor = #839496
+
+[hints]
+foreground = #55FFFF
+
