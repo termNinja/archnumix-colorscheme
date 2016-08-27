@@ -6,18 +6,22 @@ and [Termite](https://github.com/thestinger/termite) inspired by
 ## Installation (terminator)
 1. Backup your old config file:
 	```cp ~/.config/terminator/config ~/.config/terminator/my_backup```
-1. Clone this repo somewhere:
-	```cd ~ && git clone https://github.com/termNinja/archnumix-terminator-colorscheme.git```
+1. Clone this repo somewhere (for example at your home dir):
+	```cd ~ && git clone https://github.com/termNinja/archnumix-colorscheme.git```
+1. cd into cloned repo:
+	```cd archnumix-colorscheme```
 1. Copy config file onto terminator config dir:
-	```cp config ~/.config/terminator```
+	```cp terminator/config ~/.config/terminator```
 
 ## Installation (termite)
 1. Backup your old config file:
 	```cp ~/.config/termite/config ~/.config/termite/my_backup```
-1. Clone this repo somewhere:
+1. Clone this repo somewhere (for example at your home dir):
 	```cd ~ && git clone https://github.com/termNinja/archnumix-colorscheme.git```
+1. cd into cloned repo:
+	```cd archnumix-colorscheme```
 1. Copy config file onto termite config dir:
-	```cp config ~/.config/termite```
+	```cp termite/config ~/.config/termite```
 
 
 ## How it looks
