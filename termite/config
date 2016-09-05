@@ -9,7 +9,7 @@ allow_bold = true
 dynamic_title = true
 urgent_on_bell = true
 clickable_url = true
-font = Terminess Powerline 11
+font = Terminess Powerline 12
 scrollback_lines = 5000
 search_wrap = true
 
@@ -46,3 +46,4 @@ cursor = #839496
 
 [hints]
 foreground = #55FFFF
+

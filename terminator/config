@@ -1,6 +1,6 @@
 [global_config]
   geometry_hinting = False
-  title_font = Terminess Powerline 11
+  title_font = Terminess Powerline 12
   title_inactive_bg_color = "#323232"
   title_receive_bg_color = "#1793d1"
   title_transmit_bg_color = "#212121"
@@ -29,7 +29,7 @@
   [[default]]
     background_color = "#212121"
     background_image = /home/termninja/Pictures/term_bgz/arch_win10_2.png
-    font = Terminess Powerline 11
+    font = Terminess Powerline 12
     palette = "#31373a:#cc0000:#4e9a06:#d64937:#1793d1:#10ea8a:#06989a:#d2d2d2:#555753:#ef2929:#8ae234:#1793d1:#1793d1:#ad7fa8:#34e2e2:#ffffff"
     scroll_background = False
     scrollback_lines = 5000
